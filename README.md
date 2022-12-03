@@ -5,7 +5,7 @@
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
 ![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)
 
-<p align="center"> :octocat: <a href="https://www.shaunparimoo.com/resume.pdf">Resume</a> / :octocat: </p>
+<p align="center"> :octocat: <a href="https://www.shaunparimoo.com/resume.pdf">Resume</a>  :octocat: </p>
 
 ## About Me :wave:
 
