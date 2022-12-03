@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Shaun Parimoo! :stars:</h1>
 
-[[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/shaunparimoo/)](https://linkedin.com/in/shaunparimoo/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/shaunparimoo/)](https://linkedin.com/in/shaunparimoo/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shaunparimoo@gmail.com)](mailto:shaunparimoo@gmail.com)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
 ![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)
