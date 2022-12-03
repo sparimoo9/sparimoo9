@@ -9,7 +9,7 @@
 
 ## About Me :wave:
 
-Hey! :smile: My name is Shaun. I'm a 25-year-old Data Scientist / Computational Biologist from Warren, NJ and currently reside in Pittsburgh, PA. I have just finished my Masters in Computational Biotechnology and Biomedicine at the [University of Pittsburgh School of Medicine](https://www.csb.pitt.edu/cobb/), and I'm looking for new data science projects to contribute to and people to collaborate with! I love applying my mind to statistics and creating code to analyze and predict trends. I'm a VSCoder. :smile:
+Hey! :smile: My name is Shaun. I'm a 25-year-old Data Scientist / Computational Biologist from Warren, NJ and currently reside in Pittsburgh, PA. I have just finished my Masters in Computational Biomedicine & Biotechnology at the [University of Pittsburgh School of Medicine](https://www.csb.pitt.edu/cobb/), and I'm looking for new data science projects to contribute to and people to collaborate with! I love applying my mind to statistics and creating code to analyze and predict trends. I'm a VSCoder. :smile:
 
 I'm always looking to work with people who are interested in creating and working on meaningful, interesting, and ambitious projects! Shoot me [an e-mail](mailto:shaunparimoo@gmail.com) if that sounds like your cup of tea. :coffee:
 
