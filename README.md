@@ -35,7 +35,7 @@ I'm always looking to work with people who are interested in creating and workin
 
 #### Cloud Platforms:
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=whit)
-I am Microsoft Certified: Azure Fundamentals (AZ-900). See my Certification ![Here](https://www.linkedin.com/in/shaunparimoo/overlay/1635554645860/single-media-viewer?type=DOCUMENT&profileId=ACoAAA3EEvABUKHi1xNPo2KRIQxM5hVFKfTTTt4&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2BHlMt6C8TZeNdzBWX5KTOw%3D%3D)
+I am Microsoft Certified: Azure Fundamentals (AZ-900). See my Certification
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
