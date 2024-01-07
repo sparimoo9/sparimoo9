@@ -35,11 +35,12 @@ I'm always looking to work with people who are interested in creating and workin
 
 #### Cloud Platforms:
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=whit)
-Azure Fundamentals Certified (AZ-900)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+#### Certifications:
+Azure Fundamentals Certified (AZ-900) Jan 2024
 <hr/>
 
 :star: From [@sparimoo9](https://github.com/sparimoo9)
