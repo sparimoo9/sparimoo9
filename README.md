@@ -9,7 +9,7 @@
 
 ## About Me :wave:
 
-Hey! :smile: My name is Shaun. I'm a Data Scientist / Computational Biologist from Warren, NJ and currently reside in Philadelphia, PA. I have my Masters in Computational Biomedicine & Biotechnology from the [University of Pittsburgh School of Medicine](https://www.csb.pitt.edu/cobb/)! I love applying my mind to statistics and creating code to analyze and predict trends. In my free time I play for an NPSL/USL2 Team West Chester Predators :soccer:, a sneakerhead :athletic_shoe:, and a volunteer EMT :stethoscope:.
+Hey! :smile: My name is Shaun. I'm a Data Scientist / Computational Biologist from Warren, NJ and currently reside in Philadelphia, PA. I have my Masters in Computational Biomedicine & Biotechnology from the [University of Pittsburgh School of Medicine](https://www.csb.pitt.edu/cobb/)! I love applying my mind to statistics and creating code to analyze and predict trends. In my free time I play for an NPSL/USL2 Soccer Team West Chester Predators :soccer:, am a sneakerhead :athletic_shoe:, and a volunteer EMT :stethoscope:.
 
 I'm always looking to work with people who are interested in working on meaningful and ambitious projects! Shoot me [an e-mail](mailto:shaunparimoo@gmail.com) if that sounds like your cup of tea :coffee: or if you have any questions on my projects!
 
