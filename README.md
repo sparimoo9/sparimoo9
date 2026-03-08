@@ -2,6 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/shaunparimoo/)](https://linkedin.com/in/shaunparimoo/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shaunparimoo@gmail.com)](mailto:shaunparimoo@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-69b3a2?style=flat&logo=google-chrome&logoColor=white)](https://sparimoo.io)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
 ![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)
 
@@ -9,48 +10,44 @@
 
 ## About Me :wave:
 
-Hey! :smile: My name is Shaun. I'm a Data Scientist / Computational Biologist from Warren, NJ and currently reside in Philadelphia, PA. I have my Masters in Computational Biomedicine & Biotechnology from the [University of Pittsburgh School of Medicine](https://www.csb.pitt.edu/cobb/)! I love applying my mind to statistics and creating code to analyze and predict trends. In my free time I play for an NPSL/USL2 Soccer Team West Chester Predators :soccer:, am a sneakerhead :athletic_shoe:, and a volunteer EMT :stethoscope:.
+Hey! :smile: My name is Shaun. I'm an **AI/ML Engineer** from Warren, NJ, currently based in Philadelphia, PA. I studied Biological Sciences with a Chemistry minor at the **University of Pittsburgh**, then earned my master's in **Computational Biomedicine & Biotechnology** at the [University of Pittsburgh School of Medicine](https://www.csb.pitt.edu/cobb/).
 
-I'm always looking to work with people who are interested in working on meaningful and ambitious projects! Shoot me [an e-mail](mailto:shaunparimoo@gmail.com) if that sounds like your cup of tea :coffee: or if you have any questions on my projects!
+At my core I'm a **problem solver**. My roots are in **computational biology** and **data science** — building predictive models for drug discovery, classification systems, and statistical modeling. Today, I build and optimize **production RAG systems** that serve enterprise clients at scale. My work spans the full AI stack — from **vector database architecture** with Weaviate and Elasticsearch, to **LLM inference optimization** focused on latency, throughput, and search quality, to **model lifecycle management** including deployment, monitoring, and deprecation detection. I care about making AI systems that don't just work in a notebook, but survive and perform in production.
 
-## Technologies I Know :books:
+In my free time I'm an avid soccer player and fan (Let's Go Brighton!) :soccer:
 
-#### Software & Languages:
+I'm always looking to work with people on meaningful and ambitious projects! Shoot me [an e-mail](mailto:shaunparimoo@gmail.com) if that sounds like your cup of tea :coffee:
+
+## Technologies :books:
+
+#### Languages & Frameworks:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### Machine Learning & Data Science Packages:
+#### AI/ML & Search:
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Weaviate](https://img.shields.io/badge/Weaviate-00B5AD?style=for-the-badge&logo=weaviate&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge)
 
-#### Development Tools & Technologies:
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+#### Infrastructure & DevOps:
 
-#### Cloud Computing Platforms:
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-#### Professional Certifications:
-Azure Fundamentals Certified (AZ-900) Jan 2024
+#### Certifications:
+
+![Azure AZ-900](https://img.shields.io/badge/Azure_AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-FF6F00?style=for-the-badge)
+
 <hr/>
 
 :star: From [@sparimoo9](https://github.com/sparimoo9)
